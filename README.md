@@ -27,8 +27,8 @@ We were tasked to implement the lessons in our video game.
 All the assets were made by me using Adobe Illustrator.
 
 ## Usage
-Clone this repo to your local machine using `https://github.com/rdp-jr/street-food-wars.git`
-Open your console in the directory and type `java CS12MP3PrincipioRobertoJr`
+- Clone this repo to your local machine using `https://github.com/rdp-jr/street-food-wars.git`
+- Open your console in the directory and type `java CS12MP3PrincipioRobertoJr`
 
 
 
