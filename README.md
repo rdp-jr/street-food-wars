@@ -1,4 +1,6 @@
 # Street Food Wars
+![](CS12MP3PrincipioRobertoJr/pic.png)
+
 A turn-based, role-playing game developed in Java to learn programming fundamentals
 
 You are Kwek, a kwek-kwek ball tasked to defeat Isaw. 
